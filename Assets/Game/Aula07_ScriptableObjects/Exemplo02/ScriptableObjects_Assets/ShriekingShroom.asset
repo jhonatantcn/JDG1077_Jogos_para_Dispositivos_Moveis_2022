@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56dd1b22c9cc060438a288037d983f78, type: 3}
+  m_Name: ShriekingShroom
+  m_EditorClassIdentifier: 
+  cardName: Shrieking Shroom
+  description: "No final do seu turno, convoque um lacaio aleat\xF3rio de Custo 1."
+  artCharacter: {fileID: 21300000, guid: 7fbbeb72b27da624d87fb5e0e59c7830, type: 3}
+  manaCost: 3
+  attack: 1
+  health: 2
