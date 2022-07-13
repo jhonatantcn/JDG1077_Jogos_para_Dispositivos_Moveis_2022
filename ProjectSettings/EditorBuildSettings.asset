@@ -6,15 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Game/Aula15/Scenes/VibrateScene.unity
-    guid: 8577fb1d6d36469438e0b0eeb7a629a0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Game/Aula03_TouchPhases/Scenes/4.PlayerDragMove.unity
-    guid: caf692b2f17f4b84b807a6e83a248452
-  - enabled: 1
-    path: Assets/Game/Aula03_TouchPhases/Scenes/3.MultiTouch.unity
-    guid: 316f76ff3f895724da9b7742a34c7240
-  - enabled: 1
-    path: Assets/Game/Aula03_TouchPhases/Scenes/2.VirtualDPad.unity
-    guid: 6a504ac653e8e2442ba6301dfc769fbe
+    path: Assets/Game/Aula08_Giro_Acelerometro/Acelerometro/Exemplo02/Scenes/Accelerometer02.unity
+    guid: 4705f1013a61d3642adafd0f1f6830c1
   m_configObjects: {}
